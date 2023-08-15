@@ -1,0 +1,208 @@
+html {
+  height: 100%;
+  width: 100%;
+  
+}
+.navh1{font-family:copperplate; color:darkgreen; justify-content: center;}
+
+.carousel-caption {
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.jumbotron {
+  margin-top: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+.checked {
+    color:yellow;
+}
+
+#dropdownMenuButton1  {
+    background:darkgreen;
+    color:white;
+}
+#dropdownMenuButton2  {
+    background:darkgreen;
+    color:white;
+}
+#dropdownMenuButton3  {
+    background:darkgreen;
+    color:white;
+}
+#dropdownMenuButton4  {
+    background:darkgreen;
+    color:white;
+}
+#dropdownMenuButton5  {
+    background:darkgreen;
+    color:white;
+}
+#dropdownMenuButton6  {
+    background:darkgreen;
+    color:white;
+}
+#dropdownMenuButton7  {
+    background:darkgreen;
+    color:white;
+}
+#dropdownMenuButton8  {
+    background:darkgreen;
+    color:white;
+}
+
+.carousel-item {
+    width:100%;
+    height: 300px;
+}
+
+
+ul {
+  list-style-type:none;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+
+ol {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+video {
+  display:block;
+  margin:0 auto;
+}
+
+.review {
+    background: white;
+    height: 200px;
+    width: 400px;
+    border-radius: 15px;
+    margin: auto;
+    padding: 10px;
+    margin-top: 30px;
+    box-shadow: 5px 5px 5px lightgrey;
+    align-items: center;
+    
+}
+ 
+.review__items {
+    align-items:center;
+    justify-content: space-evenly;
+    width: 250px;
+    padding: 10px;
+    
+}
+ 
+.review__items img {
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 4px 15px;
+  float:left;
+  margin-right:7px;
+}
+ 
+.review__items h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+
+}
+ 
+.review__items p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+  
+}
+ 
+.review__button {
+    text-align: center;
+    padding: 10px;
+  float:right;
+
+}
+ 
+.review__button button {
+    color: black;
+    background: white;
+    font-weight: bold;
+  border-radius: 8px;
+}
+ 
+.review__items {
+    display: none;
+}
+
+.alert {
+  height:200px;
+  width:400px;
+  margin-top: 30px;
+  box-shadow: 5px 5px 5px lightgrey;
+  border-radius: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.fa {
+  font-size: 50px;
+  cursor: pointer;
+  user-select: none;
+  
+}
+
+.fa:hover {
+  color: gold;
+}
+
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  padding: 10px;
+  font-size: 15px;
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 25%;
+}
+
+
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+  padding: 10px;
+  font-size: 15px;
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 25%;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+  padding: 10px;
+  font-size: 15px;
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 25%;
+}
+
+#footer {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+}
